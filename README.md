@@ -1,6 +1,5 @@
 # SQL-Biweekly-Assement-Nsonye-Bootcamp
 
----
 ## About: 
 This was my SQL biweekly assement during the Nsonye Bootcamp.
 
